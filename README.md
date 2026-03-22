@@ -1,4 +1,4 @@
-# 🔋 Energy Consumption Prediction using Machine Learning
+# 🔋 Energy Consumption Prediction using Machine Learning and PowerBI
 
 ## 📌 Problem Statement
 Energy consumption varies based on factors like building type, temperature, number of occupants, and appliances used. 
@@ -70,12 +70,26 @@ Linear Regression provided the best performance with high accuracy and interpret
 The model can effectively predict energy consumption for different building types.
 
 ---
+## 📊 Project Presentation
+
+You can view the complete project explanation here:
+
+👉 [Download Presentation](./presentation/energy_consumption_presentation.pptx)
+👉 [View Full Presentation](https://docs.google.com/presentation/d/1qs-r56lcnunWuMudDsJppxOfxwO0qSKH/edit?usp=sharing&ouid=114432283418290135554&rtpof=true&sd=true)
+
+This presentation includes:
+- Problem Statement
+- Data Analysis
+- Model Comparison
+- Power BI Visualizations
+- Key Insights
 
 ## 📁 Project Structure
 electricity-consumption-ml/
 │── EnergyConsumption.ipynb
 │── model.pkl
 │── data/
+│── Presentation
 │── README.md
 
 
