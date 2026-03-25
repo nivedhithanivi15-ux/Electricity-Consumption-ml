@@ -99,7 +99,6 @@ POWER BI
 <img width="759" height="588" alt="image" src="https://github.com/user-attachments/assets/f6853f2b-fad8-46c6-bb0a-53681a5d239b" />
 
 
-<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/1e99d0a4-90ce-4d36-8e98-eb2bbfa86757" />
 
 ---
 ## 📁 Project Structure
