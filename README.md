@@ -84,6 +84,24 @@ This presentation includes:
 - Power BI Visualizations
 - Key Insights
 
+---
+## 📸 Project Output
+POWER BI
+<img width="1502" height="846" alt="image" src="https://github.com/user-attachments/assets/b7b420df-3e03-4074-824b-4bb7289dad23" />
+
+
+<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/5fe91d27-07d8-4152-a5b5-696f99423ce4" />
+
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/b1d33332-c88f-4ff8-a342-70b3d27e1fcd" />
+
+
+<img width="759" height="588" alt="image" src="https://github.com/user-attachments/assets/f6853f2b-fad8-46c6-bb0a-53681a5d239b" />
+
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/1e99d0a4-90ce-4d36-8e98-eb2bbfa86757" />
+
+---
 ## 📁 Project Structure
 electricity-consumption-ml/
 │── EnergyConsumption.ipynb
